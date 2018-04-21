@@ -1,0 +1,45 @@
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\bin\Debug\K-means_project.exe.config
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K-means_project.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K_means_project.Form1.resources
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K_means_project.Properties.Resources.resources
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K-means_project.csproj.GenerateResource.Cache
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\bin\Debug\K-means_project.exe
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\bin\Debug\K-means_project.pdb
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K-means_project.exe
+Z:\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K-means_project.pdb
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\bin\Debug\K-means_project.exe.config
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K-means_project.exe
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K-means_project.pdb
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\bin\Debug\K-means_project.exe
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\bin\Debug\K-means_project.pdb
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K-means_project.csprojResolveAssemblyReference.cache
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K_means_project.Form1.resources
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K_means_project.Properties.Resources.resources
+\\Mac\Секретный портальчик\Visual Studio 2013 Projects\K-means_project\K-means_project\obj\Debug\K-means_project.csproj.GenerateResource.Cache
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\bin\Debug\K-means_project.exe.config
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\obj\Debug\K-means_project.exe
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\obj\Debug\K-means_project.pdb
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\bin\Debug\K-means_project.exe
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\bin\Debug\K-means_project.pdb
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\obj\Debug\K-means_project.csprojResolveAssemblyReference.cache
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\obj\Debug\K_means_project.Properties.Resources.resources
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\obj\Debug\K-means_project.csproj.GenerateResource.Cache
+Z:\---Не ASM\CLR\Задания\B - K-means\K-means_project\K-means_project\obj\Debug\K_means_project.Element.resources
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\bin\Debug\K-means_project.exe.config
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\obj\Debug\K-means_project.exe
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\obj\Debug\K-means_project.pdb
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\bin\Debug\K-means_project.exe
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\bin\Debug\K-means_project.pdb
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\obj\Debug\K-means_project.csprojResolveAssemblyReference.cache
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\obj\Debug\K_means_project.Form1.resources
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\obj\Debug\K_means_project.Properties.Resources.resources
+Z:\---Не ASM\CLR\Задания\K-means_project\K-means_project\obj\Debug\K-means_project.csproj.GenerateResource.Cache
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\bin\Debug\K-means_project.exe.config
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\obj\Debug\K-means_project.exe
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\obj\Debug\K-means_project.pdb
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\bin\Debug\K-means_project.exe
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\bin\Debug\K-means_project.pdb
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\obj\Debug\K-means_project.csprojResolveAssemblyReference.cache
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\obj\Debug\K_means_project.Form1.resources
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\obj\Debug\K_means_project.Properties.Resources.resources
+Z:\---Не ASM\CLR\Задания\K-means - backup!!!\K-means_project\K-means_project\obj\Debug\K-means_project.csproj.GenerateResource.Cache
